@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/estebanlanter/Dropbox/programming/libraries/processing/core.jar"/>
+	<classpathentry kind="lib" path="/Users/estebanlanter/Dropbox/programming/libraries/midibus/themidibus.jar"/>
+	<classpathentry kind="lib" path="/Users/estebanlanter/Dropbox/programming/libraries/processing/gluegen-rt-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="/Users/estebanlanter/Dropbox/programming/libraries/processing/gluegen-rt.jar"/>
+	<classpathentry kind="lib" path="/Users/estebanlanter/Dropbox/programming/libraries/processing/jogl-all-natives-macosx-universal.jar"/>
+	<classpathentry kind="lib" path="/Users/estebanlanter/Dropbox/programming/libraries/processing/jogl-all.jar"/>
+	<classpathentry kind="lib" path="/Users/estebanlanter/Documents/Processing/libraries/Syphon/library/Syphon.jar"/>
+	<classpathentry kind="lib" path="/Users/estebanlanter/Documents/Processing/libraries/Syphon/library/jsyphon.jar"/>
+	<classpathentry kind="lib" path="/Users/estebanlanter/Dropbox/programming/libraries/G4P/G4P.jar"/>
+	<classpathentry kind="lib" path="/Users/estebanlanter/Dropbox/programming/libraries/controlP5/controlP5.jar"/>
+	<classpathentry kind="lib" path="/Users/estebanlanter/Dropbox/programming/libraries/minim/jl1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/estebanlanter/Dropbox/programming/libraries/minim/jsminim.jar"/>
+	<classpathentry kind="lib" path="/Users/estebanlanter/Dropbox/programming/libraries/minim/minim.jar"/>
+	<classpathentry kind="lib" path="/Users/estebanlanter/Dropbox/programming/libraries/minim/mp3spi1.9.4.jar"/>
+	<classpathentry kind="lib" path="/Users/estebanlanter/Dropbox/programming/libraries/minim/tritonus_aos.jar"/>
+	<classpathentry kind="lib" path="/Users/estebanlanter/Dropbox/programming/libraries/minim/tritonus_share.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

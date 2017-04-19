@@ -1,0 +1,6 @@
+Every Beat // every transient: Randomize a selection of parameters (all parameters?)
+
+low & !high :  numDensity up
+!low & high : numDensity down
+low & high : textSize up
+!low & !high : textSize down
